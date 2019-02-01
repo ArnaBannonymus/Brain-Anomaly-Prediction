@@ -1,0 +1,12 @@
+DISEASES,PERCENTAGE_W,PERCENTAGE_G
+Stroke,0.591,0.409
+NIHSS deficit,0.786,0.214
+"Myocardium, bones",0.439,0.561
+Chronic myelomonocytic leukemia,0.98,0.02
+"Brainstem, retroperitoneum, bones",0.18,0.82
+"Retroperitoneum, bones, subcutaneous soft tissues",0.629,0.371
+"Orbit, retroperitoneum, epidural soft tissues, bones",0.163,0.837
+"Retroperitoneum, lung, skin, bones",0.149,0.851
+"Orbit, retroperitoneum, bones",0.381,0.619
+"Orbit, retroperitoneum, bones",0.342,0.658
+"Subcutaneous soft tissues, maxillary sinus, bones, skin",0.256,0.744
